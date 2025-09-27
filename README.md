@@ -11,14 +11,27 @@
 
 ## 👨‍💻 Quick Overview
 
-**🎓 Computer Science Student** at Amrita Vishwa Vidyapeetham | **CGPA: 8.11/10**  
-**💼 Current Role:** Full-Stack & AI-ML Engineer at CommandHQ  
-**🔬 Previous Experience:** Python Developer at IIT Bhubaneswar
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+  
+🎓 Computer Science Student at Amrita Vishwa Vidyapeetham  
+👨‍💻 CGPA: 8.11/10  
+💼 Current Role: Full-Stack & AI-ML Engineer at CommandHQ  
+🔬 Previous Experience: Python Developer at IIT Bhubaneswar  
 
-- 🔭 Currently working on **AI-powered defense applications**
-- 🌱 Learning **Advanced Machine Learning & Cloud Architecture**
-- 💬 Ask me about **Full-Stack Development, AI/ML, and Robotics**
-- ⚡ Fun fact: **I love building autonomous systems!**
+🔭 Currently working on AI-powered defense applications  
+🌱 Learning Advanced Machine Learning & Cloud Architecture  
+💬 Ask me about Full-Stack Development, AI/ML, and Robotics  
+
+</td>
+<td width="40%">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Alexa Voice Assistant" width="300" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -148,15 +161,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saichandana-j&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 </div>
 
