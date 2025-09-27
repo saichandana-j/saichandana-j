@@ -8,8 +8,8 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saichandanajampala@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/saichandanajampala@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saichandanajampala@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saichandana-j)
 
 </div>
 
@@ -116,12 +116,12 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saichandana-j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandana-j&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandana-j&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -150,7 +150,7 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 I'm always excited to work on innovative projects and connect with fellow developers and tech enthusiasts!
 
 **Currently open to:**
-- Full-time opportunities at top MNCs
+- Full-time opportunities at companies where i can grow 
 - Collaborative projects in AI/ML and Full-Stack Development
 - Open source contributions
 - Technical mentorship and knowledge sharing
@@ -158,11 +158,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <div align="center">
   <h3>⭐ Star my repositories if you find them interesting!</h3>
   <p><em>Let's build something amazing together! 🚀</em></p>
