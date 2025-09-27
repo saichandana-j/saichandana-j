@@ -150,7 +150,7 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 I'm always excited to work on innovative projects and connect with fellow developers and tech enthusiasts!
 
 **Currently open to:**
-- Full-time opportunities at top MNCs
+- Full-time opportunities at companies where i can grow 
 - Collaborative projects in AI/ML and Full-Stack Development
 - Open source contributions
 - Technical mentorship and knowledge sharing
@@ -158,11 +158,6 @@ I'm always excited to work on innovative projects and connect with fellow develo
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <div align="center">
   <h3>⭐ Star my repositories if you find them interesting!</h3>
   <p><em>Let's build something amazing together! 🚀</em></p>
