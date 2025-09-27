@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saichandanajampala/)
 [![Email](https://img.shields.io/badge/saichandanajampala@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saichandanajampala@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saichandana-j)
 
@@ -31,7 +31,7 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 ## 💼 Professional Experience
 
 ### **Full-Stack & AI-ML Engineer** | CommandHQ, Coimbatore
-*June 2025 - September 2025*
+*June 2024 - September 2024*
 - Developing AI/ML models for military commanders with real-world applications
 - Building scalable applications using Next.js, Node.js, and modern databases (NeonDB, MongoDB, AWS)
 - Implementing RESTful APIs with Swagger documentation
@@ -87,11 +87,12 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 
 ## 🏆 Featured Projects
 
-### 🤖 [Autonomous Robotic System](your-project-link)
-**Technologies:** ROS 2, Gazebo, SLAM Toolbox
-- Implemented pick-and-place robot with advanced obstacle avoidance
-- Developed autonomous navigation and environment mapping capabilities
-- Seamless integration with predefined simulation worlds
+### 📊 [MEFAR Data Analysis with ML](your-project-link)
+**Technologies:** Python, Scikit-Learn, KNN, Random Forest
+- Achieved 95% accuracy using Random Forest algorithm
+- Applied hyperparameter tuning and cross-validation
+- Comprehensive model comparison and performance analysis
+
 
 ### 🌐 [Work Nexus - Modern Workspace App](your-project-link)
 **Technologies:** Next.js, REST APIs, Convex, Clerk, EdgeDB
@@ -99,17 +100,19 @@ With hands-on experience at prestigious institutions like **IIT Bhubaneswar** an
 - Integrated real-time data handling and robust authentication
 - Modern frontend practices ensuring optimal performance and modularity
 
+  
+### 🤖 [Autonomous Robotic System](your-project-link)
+**Technologies:** ROS 2, Gazebo, SLAM Toolbox
+- Implemented pick-and-place robot with advanced obstacle avoidance
+- Developed autonomous navigation and environment mapping capabilities
+- Seamless integration with predefined simulation worlds
+
+
 ### 🔒 [Secure File Encryption System](your-project-link)
 **Technologies:** Node.js, PostgreSQL, AES-256-CFB
 - Full-stack system for secure file and image encryption/decryption
 - Implemented bcrypt password hashing and session management
 - User-friendly interfaces with comprehensive security features
-
-### 📊 [MEFAR Data Analysis with ML](your-project-link)
-**Technologies:** Python, Scikit-Learn, KNN, Random Forest
-- Achieved 95% accuracy using Random Forest algorithm
-- Applied hyperparameter tuning and cross-validation
-- Comprehensive model comparison and performance analysis
 
 ---
 
