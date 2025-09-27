@@ -10,7 +10,6 @@
 ---
 
 ## 👨‍💻 Quick Overview
-![Animation](https://lottie.host/93c1b42f-2d5b-4520-b7c3-50f86abd885c/V3lRuG6T0M.gif)
 
 **🎓 Computer Science Student** at Amrita Vishwa Vidyapeetham | **CGPA: 8.11/10**  
 **💼 Current Role:** Full-Stack & AI-ML Engineer at CommandHQ  
